@@ -1,5 +1,7 @@
 # practice-vuejs-auth0
 
+[ref](https://auth0.com/docs/quickstart/spa/vuejs)
+
 ## Project setup
 ```
 yarn install
